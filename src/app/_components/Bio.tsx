@@ -7,15 +7,11 @@ const Bio = (props: Props) => {
   return (
     <Card title="Bio">
       <div>
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged. It was popularised in the 1960s with the release
-        of Letraset sheets containing Lorem Ipsum passages, and more recently
-        with desktop publishing software like Aldus PageMaker including versions
-        of Lorem Ipsum.
+      He is an exceptional engineer by day and a notorious bandit by night. His technical prowess 
+      and sharp mind have made him a valuable asset in the engineering world, tackling complex 
+      projects with precision and innovation. However, the thrill of the night led him to a 
+      life of crime, where his meticulous planning and calculated risks turned him into 
+      a feared figure in the underworld.
       </div>
     </Card>
   );
